@@ -54,3 +54,5 @@ curl -X POST "http://localhost:8000/ask" \
      -H "Content-Type: application/json" \
      -d '{"text": "How do I create a payment with Stripe API?"}'
 ```
+![image](https://github.com/user-attachments/assets/a24ffa4a-52d1-4704-b23a-bded445f7bc3)
+
